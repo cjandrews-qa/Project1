@@ -5,7 +5,7 @@ This is information about the project.
 
 ### Resources:
 * Presentations: (Presentation for Project)
-* Jiro: https://candrews.atlassian.net/jira/software/projects/FP/
+* Jiro: https://candrews.atlassian.net/jira/software/projects/FP/boards/2/roadmap?shared=&atlOrigin=eyJpIjoiZTM2NGJlM2U2ZmQwNDM4OWE2N2I2OTcyNTJlODFjZmEiLCJwIjoiaiJ9
 * Website: (Web Adress of Project)
 
 ## Contents
