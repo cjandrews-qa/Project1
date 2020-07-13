@@ -1,10 +1,10 @@
 # Fundamental Project
 This is information about the project. Change1
 
-#Links for chess.py (Dev)
-*GUI: https://github.com/fsmosca/Python-Easy-Chess-GUI
-*UCI/XBoard: https://python-chess.readthedocs.io/en/v0.31.2/engine.html
-*PyChess: https://python-chess.readthedocs.io/en/latest/
+# Links for chess.py (Dev)
+* GUI: https://github.com/fsmosca/Python-Easy-Chess-GUI
+* UCI/XBoard: https://python-chess.readthedocs.io/en/v0.31.2/engine.html
+* PyChess: https://python-chess.readthedocs.io/en/latest/
 
 # Names of Project (Chess Opening)
 
